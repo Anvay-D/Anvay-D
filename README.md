@@ -17,7 +17,4 @@ I'm Anvay Deshpande, a passionate developer and BI intern based in Aurangabad, I
 - **Paper:**
   - Published a research paper at Springer’s ICIPCN 2023 Conference: "Automated Wave Height Measurement and Analysis through Image Processing: A Computer Vision Approach for Oceanography⋆" in Scopus Index.
 
-## 👨‍💻 Current Internship
-- **Business Intelligence Developer Intern, Indictrans Tech**
-
 Feel free to connect with me! 😊
