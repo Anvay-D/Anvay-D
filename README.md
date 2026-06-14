@@ -1,23 +1,22 @@
 # Hi there! 👋
 
-I’m Anvay Deshpande, a developer focused on Machine Learning and Retrieval-Augmented Generation (RAG) systems. I work on building practical AI applications using LLMs, agentic workflows, and vector databases, with an emphasis on accuracy, scalability, and real-world use cases.
+I’m Anvay Deshpande, an innovative and results-driven Software Engineer specializing in building AI-powered applications, multi-agent workflows, and scalable AI infrastructure. Adept at integrating Large Language Models (LLMs) via LangChain and CrewAI, optimizing Retrieval-Augmented Generation (RAG) pipelines with vector databases, and automating data orchestration. Combines a strong foundation in Python backend development with robust DevOps expertise (Docker, Kubernetes, Helm) to seamlessly deploy, monitor, and scale AI workloads from staging to production environments.
 
-My interests include ML pipelines, RAG architectures, agent-based systems, and backend development, and I enjoy turning complex ideas into working software.
+My primary focus is on Machine Learning and Retrieval-Augmented Generation (RAG) systems. I work on building practical AI applications using LLMs, agentic workflows, and vector databases, with an emphasis on accuracy, scalability, and real-world use cases, I enjoy turning complex ideas into working software.
 
 ## 🛠️Skills Summary
 - **Languages:** C, C++, Python, SQL, JavaScript, HTML, CSS, PHP, Bash
-- **AI / ML:** TensorFlow, Keras, NumPy, Pandas, OpenCV, LangChain, LangGraph
+- **AI / ML:** Large Language Models (LLMs), LangChain, LangGraph, CrewAI, AutoGen, Retrieval-Augmented Generation (RAG), Qdrant Vector Database
 - **System and Tools:**  Linux, Git, SQL-based databases
 - **Core Strengths:** Problem Solving, System Thinking, Communication, Leadership
 
 
 ## Work Experience
 ### 1. Tata Communications
-- Software Developer with hands-on experience in developing applications in Python and Kotlin for 
-the Open Network Automation Platform (ONAP).  
-- Skilled in containerizing applications using Docker and deploying them on Kubernetes for scalable, 
-automated environments. Strong background in managing microservices, writing efficient code, and 
-implementing CI/CD practices for reliable and consistent deployments.
+- Design, build, and deploy production-ready AI applications, multi-agent workflows, and containerized microservices using Python and Kotlin.
+- Architect automated data validation and content review pipelines to streamline AI training dataset development, improving data accuracy and labeling efficiency.
+- Engineer scalable orchestration layers using Kubernetes and Docker to manage high-throughput LLM integrations and backend APIs
+
 ---
 ## Internship Experience
 ### 1. Supply Chain Analytics Intern at Zepto 
